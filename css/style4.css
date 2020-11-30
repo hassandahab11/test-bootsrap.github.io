@@ -1,0 +1,26 @@
+header{
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+}
+.white a{
+    color: white;
+}
+
+.gray a{
+    color:white;
+    opacity: 0.5;
+}
+#img{
+    width: 150px;
+    border-radius: 50%;
+    
+}
+#primary-div{
+    padding-top: 50px;
+    background-color: gray;
+    opacity: 0.3;
+}
+#primary-div h1{
+    padding-top: 10px;
+}
